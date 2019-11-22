@@ -10,4 +10,5 @@
  */
 public class testMaven {
     String manar ;
+    String manar2 ;
 }

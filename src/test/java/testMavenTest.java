@@ -32,9 +32,9 @@ public class testMavenTest {
     @Test
     public void testAddition() {
         System.out.println("addition");
-        int valeur = 1;
+        int valeur = 2;
         testMaven instance = new testMaven();
-        double expResult = 50.0;
+        double expResult = 100.0;
         double result = instance.addition(valeur);
         assertEquals(expResult, result, 0.0);
     }

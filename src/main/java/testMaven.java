@@ -9,7 +9,12 @@
  * @author usager
  */
 public class testMaven {
-    String manar ;
-    String manar2 ;
-    String manar20 ;
+    
+    
+     public double addition( int valeur){
+        
+        
+        return valeur * 50;
+        
+    }
 }
